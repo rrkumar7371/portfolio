@@ -1,0 +1,22 @@
+/* media  query */
+@media screen and (max-width:768px) {
+    .logo{
+        padding: 5px;
+        font-size: 1.2rem;
+        /* color: blue; */
+    }
+
+    div nav ul{
+        padding-inline: 12%;
+    }
+    nav{
+        justify-content: space-evenly;
+    }
+    
+
+
+
+    .web-body main p a{
+        font-size: 35px;
+    }
+}
